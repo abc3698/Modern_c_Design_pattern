@@ -20,3 +20,8 @@
 DesignPattern/.editorconfig
 *.bak
 Modern_Design_pattern/.vs/Modern_Design_pattern/v16/.suo
+*.config
+*.dat
+Modern_Design_pattern/packages/
+*.exp
+*.lib
