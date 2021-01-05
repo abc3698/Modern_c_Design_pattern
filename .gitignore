@@ -25,3 +25,6 @@ Modern_Design_pattern/.vs/Modern_Design_pattern/v16/.suo
 Modern_Design_pattern/packages/
 *.exp
 *.lib
+*.dll
+*.txt
+*.CopyComplete
